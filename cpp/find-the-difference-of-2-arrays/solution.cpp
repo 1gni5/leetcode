@@ -1,32 +1,35 @@
-#include <set>
-using namespace std;
-
 class Solution {
 public:
-    set<int> buildSet(vector<int>& vec) {
-        set<int> res;
-        for (auto& v : vec) {
-            res.insert(v);
-        }
-        return res;
-    }
+    vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
+        enum state {free, first, second, common, used};
 
-    vector<int> findDifference(set<int>& a, set<int>& b) {
-        vector<int> res;
-        for (auto& value : a) {
-            if (b.count(value) < 1) {
-                res.push_back(value);
+        vector<vector<int>> solution {{}, {}};
+        array<state, 2001> states = {free}; size_t offset = 1000;
+
+        // Register all numbers presents in first array
+        for (auto& value : nums1) {
+            states[value + offset] = first;
+        }
+
+        // Add the numbers in the second array
+        // and remove the ones present in both.
+        for (auto& value : nums2) {
+            if (states[value + offset] == first){
+                states[value + offset] = common;
+            } else if(states[value + offset] == free) {
+                // Update solution array and mark as common
+                solution[1].push_back(value);
+                states[value + offset] = second;
             }
         }
-        return res;
-    }
 
-    vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        vector<vector<int>> solution {};
-        set<int> set1 = buildSet(nums1), set2 = buildSet(nums2);
-
-        solution.push_back(findDifference(set1, set2));
-        solution.push_back(findDifference(set2, set1));
+        // Build the solution for the first array
+        for (auto& value : nums1) {
+            if (states[value + offset] == first) {
+                solution[0].push_back(value);
+                states[value + offset] = used;
+            }
+        }
 
         return solution;
     }
