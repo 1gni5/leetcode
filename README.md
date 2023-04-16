@@ -4,7 +4,9 @@ Time to get into FANNG !
 ## Summary
 | problem                                                                                                   | code                                               |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [21. merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists)                         | [`C++`](cpp/21-merge-two-sorted-lists/)            |
 | [205. isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)                              | [`C++`](cpp/205-isomorphic-strings/)               |
+| [206. reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                            | [`C++`](cpp/206-reverse-linked-list/)              |
 | [392. is-subsequence](https://leetcode.com/problems/is-subsequence/)                                      | [`C++`](cpp/392-is-subsequence/)                   |
 | [724. find-pivot-index](https://leetcode.com/problems/find-pivot-index/)                                  | [`C++`](cpp/724-find-pivot-index/)                 |
 | [1480. running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/)                   | [`C++`](cpp/1480-running-sum-of-1d-array/)         |
