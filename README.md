@@ -13,3 +13,4 @@ Time to get into FANNG !
 | [1480. running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/)                   | [`C++`](cpp/1480-running-sum-of-1d-array/)         |
 | [2210. count-hills-and-valleys](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)       | [`C++`](cpp/2210-count-hills-and-valleys/)         |
 | [2215. find-the-difference-of-2-arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [`C++`](cpp/2215-find-the-difference-of-2-arrays/) |
+| [142. linked-list-cycle](https://leetcode.com/problems/linked-list-cycle-ii/)                             | [`C++`](cpp/142-linked-list-cycle/)                |
