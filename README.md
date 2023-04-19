@@ -16,3 +16,4 @@ Time to get into FANNG !
 | [142. linked-list-cycle](https://leetcode.com/problems/linked-list-cycle-ii/)                             | [`C++`](cpp/142-linked-list-cycle/)                                                           |
 | [121. best-time-to-sell-and-buy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)          | [`C++`](cpp/121-best-time-to-buy-and-sell/) [`Python`](python/121-best-time-to-buy-and-sell/) |
 | [409. longest palindrome](https://leetcode.com/problems/longest-palindrome/)                              | [`C++`](cpp/409-longest-palindrome/)                                                          |
+| [589. n-ary tree preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                  | [`C++`](cpp/589-n-ary-tree-preorder/)                                                         |
