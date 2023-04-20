@@ -18,3 +18,4 @@ Time to get into FANNG !
 | [409. longest palindrome](https://leetcode.com/problems/longest-palindrome/)                              | [`C++`](cpp/409-longest-palindrome/)                                                          |
 | [589. n-ary tree preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                  | [`C++`](cpp/589-n-ary-tree-preorder/)                                                         |
 | [102. binary tree level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)          | [`C++`](cpp/102-binary-tree-level-order/)                                                     |
+| [704. binary search](https://leetcode.com/problems/binary-search/)                                        | [`C++`](cpp/704-binary-search/)                                                               |
