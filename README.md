@@ -19,3 +19,4 @@ Time to get into FANNG !
 | [589. n-ary tree preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                  | [`C++`](cpp/589-n-ary-tree-preorder/)                                                         |
 | [102. binary tree level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)          | [`C++`](cpp/102-binary-tree-level-order/)                                                     |
 | [704. binary search](https://leetcode.com/problems/binary-search/)                                        | [`C++`](cpp/704-binary-search/)                                                               |
+| [278. first bad version](ttps://leetcode.com/problems/first-bad-version/)                                 | [`C++`](cpp/278-first-bad-version/)                                                           |
