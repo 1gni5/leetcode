@@ -20,3 +20,4 @@ Time to get into FANNG !
 | [102. binary tree level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)          | [`C++`](cpp/102-binary-tree-level-order/)                                                     |
 | [704. binary search](https://leetcode.com/problems/binary-search/)                                        | [`C++`](cpp/704-binary-search/)                                                               |
 | [278. first bad version](ttps://leetcode.com/problems/first-bad-version/)                                 | [`C++`](cpp/278-first-bad-version/)                                                           |
+| [98. validate bst](https://leetcode.com/problems/validate-binary-search-tree/)                            | [`C++`](cpp/98-validate-bst/)                                                                 |
