@@ -19,6 +19,6 @@ Time to get into FANNG !
 | [589. n-ary tree preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                  | [`C++`](cpp/589-n-ary-tree-preorder/)                                                         |
 | [102. binary tree level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)          | [`C++`](cpp/102-binary-tree-level-order/)                                                     |
 | [704. binary search](https://leetcode.com/problems/binary-search/)                                        | [`C++`](cpp/704-binary-search/)                                                               |
-| [278. first bad version](ttps://leetcode.com/problems/first-bad-version/)                                 | [`C++`](cpp/278-first-bad-version/)                                                           |
+| [278. first bad version](https://leetcode.com/problems/first-bad-version/)                                 | [`C++`](cpp/278-first-bad-version/)                                                           |
 | [98. validate bst](https://leetcode.com/problems/validate-binary-search-tree/)                            | [`C++`](cpp/98-validate-bst/)                                                                 |
 | [235. LCA in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)          | [`C++`](cpp/235-lca-in-bst/)                                                                  |
