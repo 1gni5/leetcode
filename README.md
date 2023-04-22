@@ -23,3 +23,4 @@ Time to get into FANNG !
 | [98. validate bst](https://leetcode.com/problems/validate-binary-search-tree/)                            | [`C++`](cpp/98-validate-bst/)                                                                 |
 | [235. LCA in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)          | [`C++`](cpp/235-lca-in-bst/)                                                                  |
 | [200. number of island](https://leetcode.com/problems/number-of-islands/)                                 | [`C++`](cpp/200-number-of-islands/)                                                           |
+| [509. fibonaci number](https://leetcode.com/problems/fibonacci-number/)                                   | [`C++`](cpp/509-fibonacci-number/)                                                            |
