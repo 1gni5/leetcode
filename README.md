@@ -25,3 +25,4 @@ Time to get into FANNG !
 | [200. number of island](https://leetcode.com/problems/number-of-islands/)                                 | [`C++`](cpp/200-number-of-islands/)                                                           |
 | [509. fibonaci number](https://leetcode.com/problems/fibonacci-number/)                                   | [`C++`](cpp/509-fibonacci-number/)                                                            |
 | [70. climbing stairs](https://leetcode.com/problems/climbing-stairs)                                      | [`C++`](cpp/70-climbing-stairs/)                                                              |
+| [746. min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                  | [`C++`](cpp/746-min-cost-climbing-stairs/)                                                    |
