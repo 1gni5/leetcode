@@ -27,3 +27,4 @@ Time to get into FANNG !
 | [70. climbing stairs](https://leetcode.com/problems/climbing-stairs)                                      | [`C++`](cpp/70-climbing-stairs/)                                                              |
 | [746. min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                  | [`C++`](cpp/746-min-cost-climbing-stairs/)                                                    |
 | [258. add digits](https://leetcode.com/problems/add-digits/)                                              | [`C++`](cpp/258-add-digits/)                                                                  |
+| [62. unique paths](https://leetcode.com/problems/unique-paths/)                                           | [`C++`](cpp/62-unique-paths/)                                                                 |
