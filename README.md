@@ -2,8 +2,8 @@
 Time to get into FANNG !
 
 ## Summary
-| problem                                                                                                   | code                                                                                          |
-|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|                                                  problem                                                  |                                             code                                              |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [21. merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists)                         | [`C++`](cpp/21-merge-two-sorted-lists/)                                                       |
 | [205. isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)                              | [`C++`](cpp/205-isomorphic-strings/)                                                          |
 | [206. reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                            | [`C++`](cpp/206-reverse-linked-list/)                                                         |
@@ -28,3 +28,4 @@ Time to get into FANNG !
 | [746. min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                  | [`C++`](cpp/746-min-cost-climbing-stairs/)                                                    |
 | [258. add digits](https://leetcode.com/problems/add-digits/)                                              | [`C++`](cpp/258-add-digits/)                                                                  |
 | [62. unique paths](https://leetcode.com/problems/unique-paths/)                                           | [`C++`](cpp/62-unique-paths/)                                                                 |
+| [2418. sort the people](https://leetcode.com/problems/sort-the-people/)                                   | [`Python`](python/2418-sort-the-people/)                                                      |
